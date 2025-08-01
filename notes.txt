@@ -1,0 +1,21 @@
+1. JSON Formatter
+---->//json formatter is a website that formats JSON data for better readability
+
+---->//https://jsonformatter.curiousconcept.com/
+
+2.To setup a React project
+---->npm init
+---->npm create vit@latest .  //by adding dot at the end it doesnt create a new folder 
+
+3.To run the project
+---->npm run dev
+
+//CORS POLICY
+Meaning of CORS is cross origin resource sharing request
+https://www.npmjs.com/package/cors -- 
+
+Day 3 - Proxy
+4.we configured the proxy into the vite config file and allow the localhost:3000 to be proxied to the localhost:3001
+5.Standardized APIs by adding /api/thoughts and the https://localhost:3000 gets appended
+
+https://vite.dev/config/server-options-- proxy
